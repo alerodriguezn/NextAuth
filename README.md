@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The objective of this small project is to learn how to use NextAuth.js, implementing a lot of providers such as Github, Google, etc...
 
 ## Getting Started
 
