@@ -1,4 +1,4 @@
-##Next.js Project with NextAuth.js and Tailwindcss
+## Next.js Project with NextAuth.js and Tailwindcss
 
 The objective of this small project is to learn how to use NextAuth.js, implementing a lot of providers such as Github, Google, etc...
 
